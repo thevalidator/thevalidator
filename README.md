@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p text-align:justify”>ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪɴ ᴊᴀᴠᴀ.</p>
-<p text-align:justify”>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ "ꜱɪɴᴄɪᴛʏɴɪɢʜᴛꜱ" ᴘʀᴏᴊᴇᴄᴛ. ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ᴄᴏɴꜱɪꜱᴛꜱ ᴏꜰ ᴛᴡᴏ ꜱᴜʙ-ᴘʀᴏᴊᴇᴄᴛꜱ: <a href="https://github.com/thevalidator/sin-city-parser" target="blank">ꜱɪɴᴄɪᴛʏᴘᴀʀꜱᴇʀ</a> ᴀɴᴅ ꜱɪɴᴄɪᴛʏʙᴏᴛ.</p>
+<p text-align:justify”>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ "ꜱɪɴᴄɪᴛʏɴɪɢʜᴛꜱ" ᴘʀᴏᴊᴇᴄᴛ. ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ᴄᴏɴꜱɪꜱᴛꜱ ᴏꜰ ᴛᴡᴏ ꜱᴜʙ-ᴘʀᴏᴊᴇᴄᴛꜱ: <a href="https://github.com/thevalidator/sin-city-parser" target="blank">ꜱɪɴᴄɪᴛʏᴘᴀʀꜱᴇʀ</a> ᴀɴᴅ <a href="https://github.com/thevalidator/sin-city-bot" target="blank">ꜱɪɴᴄɪᴛʏʙᴏᴛ</a>.</p>
 <br>
 <h3 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:</h3>
 <p align="left"> 
